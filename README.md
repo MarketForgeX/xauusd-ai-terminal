@@ -1,7 +1,7 @@
 # Feriha Intelligence
 
 <p align="center">
-  <a href="https://xauusd-gold.github.io/xauusd-ai-terminal/" target="_blank" rel="noopener noreferrer"><strong>🚀 CHECK LIVE TERMINAL</strong></a>
+  <a href="https://MarketForgeX.github.io/xauusd-ai-terminal/" target="_blank" rel="noopener noreferrer"><strong>🚀 CHECK LIVE TERMINAL</strong></a>
 </p>
 
 ## Publish
