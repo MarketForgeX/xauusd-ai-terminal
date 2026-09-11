@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:24:01.401Z",
+  "generatedAt": "2026-09-11T20:54:14.413Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -99,8 +99,8 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-09-11T14:00:00-04:00-Federal Budget Balance",
-      "Date": "2026-09-11T14:00:00-04:00",
+      "CalendarId": "USD-2026-09-11T13:58:00-04:00-Federal Budget Balance",
+      "Date": "2026-09-11T13:58:00-04:00",
       "Country": "USD",
       "Event": "Federal Budget Balance",
       "Category": "Economic Calendar",
