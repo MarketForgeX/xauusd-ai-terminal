@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:11:32.007Z",
+  "generatedAt": "2026-09-13T20:43:28.911Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -45,7 +45,7 @@
       "Event": "Federal Funds Rate",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "",
+      "Forecast": "3.75%",
       "Previous": "3.75%",
       "Importance": 3,
       "Source": "Forex Factory / Fair Economy"
