@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:29:09.273Z",
+  "generatedAt": "2026-09-15T18:08:14.967Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -12,6 +12,18 @@
       "Forecast": "",
       "Previous": "12.0K",
       "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-09-15T10:00:00-04:00-Treasury Sec Bessent Speaks",
+      "Date": "2026-09-15T10:00:00-04:00",
+      "Country": "USD",
+      "Event": "Treasury Sec Bessent Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
     },
     {
