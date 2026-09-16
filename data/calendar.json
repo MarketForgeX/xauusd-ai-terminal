@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:51:49.906Z",
+  "generatedAt": "2026-09-16T04:43:23.446Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -33,7 +33,7 @@
       "Event": "Core Retail Sales m/m",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "0.5%",
+      "Forecast": "0.6%",
       "Previous": "-0.3%",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -117,7 +117,7 @@
       "Event": "Unemployment Claims",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "208K",
+      "Forecast": "207K",
       "Previous": "206K",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
