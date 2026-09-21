@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:03:56.952Z",
+  "generatedAt": "2026-09-21T20:23:58.045Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -69,7 +69,7 @@
       "Event": "Flash Manufacturing PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "53.4",
+      "Forecast": "53.6",
       "Previous": "53.2",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -81,7 +81,7 @@
       "Event": "Flash Services PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "56.0",
+      "Forecast": "55.8",
       "Previous": "56.8",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -120,6 +120,18 @@
       "Forecast": "201K",
       "Previous": "196K",
       "Importance": 2,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-09-24T08:30:00-04:00-FOMC Member Barkin Speaks",
+      "Date": "2026-09-24T08:30:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Barkin Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
     {
