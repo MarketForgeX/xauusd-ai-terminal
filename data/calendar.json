@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:25:12.186Z",
+  "generatedAt": "2026-09-23T07:41:50.193Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -91,6 +91,18 @@
       "Date": "2026-09-23T10:05:00-04:00",
       "Country": "USD",
       "Event": "FOMC Member Barr Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-09-23T12:00:00-04:00-FOMC Member Goolsbee Speaks",
+      "Date": "2026-09-23T12:00:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Goolsbee Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
@@ -191,6 +203,18 @@
       "Actual": "",
       "Forecast": "-0.3%",
       "Previous": "1.1%",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-09-25T09:20:00-04:00-FOMC Member Schmid Speaks",
+      "Date": "2026-09-25T09:20:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Schmid Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
