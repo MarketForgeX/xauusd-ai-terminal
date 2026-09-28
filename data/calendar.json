@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:45:24.769Z",
+  "generatedAt": "2026-09-28T20:31:09.709Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -45,7 +45,7 @@
       "Event": "CB Consumer Confidence",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "90.1",
+      "Forecast": "89.2",
       "Previous": "89.4",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -141,7 +141,7 @@
       "Event": "ADP Non-Farm Employment Change",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "70K",
+      "Forecast": "73K",
       "Previous": "38K",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -201,7 +201,7 @@
       "Event": "Chicago PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "51.3",
+      "Forecast": "51.2",
       "Previous": "47.1",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -261,7 +261,7 @@
       "Event": "Unemployment Claims",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "199K",
+      "Forecast": "201K",
       "Previous": "197K",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -309,7 +309,7 @@
       "Event": "Final Manufacturing PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "57.0",
+      "Forecast": "56.9",
       "Previous": "57.0",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -333,7 +333,7 @@
       "Event": "ISM Manufacturing PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "55.0",
+      "Forecast": "54.8",
       "Previous": "54.6",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -345,7 +345,7 @@
       "Event": "ISM Manufacturing Prices",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "72.0",
+      "Forecast": "72.9",
       "Previous": "71.1",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -405,7 +405,7 @@
       "Event": "Non-Farm Employment Change",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "98K",
+      "Forecast": "90K",
       "Previous": "162K",
       "Importance": 3,
       "Source": "Forex Factory / Fair Economy"
