@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:29:40.457Z",
+  "generatedAt": "2026-10-01T23:51:30.588Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -387,8 +387,8 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-10-01T18:45:00-04:00-FOMC Member Logan Speaks",
-      "Date": "2026-10-01T18:45:00-04:00",
+      "CalendarId": "USD-2026-10-01T19:20:00-04:00-FOMC Member Logan Speaks",
+      "Date": "2026-10-01T19:20:00-04:00",
       "Country": "USD",
       "Event": "FOMC Member Logan Speaks",
       "Category": "Economic Calendar",
